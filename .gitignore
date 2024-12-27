@@ -1,0 +1,13 @@
+browser_errors
+browser_errors/*
+config-sshagent.sh
+.env
+*.pyc
+__pycache__/
+.DS_Store
+.vscode/
+.idea/
+*.log
+*~
+*.bak
+/output/
